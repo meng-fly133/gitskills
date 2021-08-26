@@ -1,6 +1,4 @@
 # gitskills
 Creating the second times
-<<<<<<< HEAD
-=======
 Creating a new branch is quick & simple
->>>>>>> dev
+Creating a new branch is quick and simple
